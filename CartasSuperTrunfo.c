@@ -24,13 +24,13 @@ int main() {
 // Leitura de dados da "Carta 1"
 
     printf("Carta 1\n");
-    printf("Estado (sem espacos, ex: RioDeJaneiro): ");
+    printf("Estado: ");
     scanf("%s", estado1);
 
     printf("Codigo : ");
     scanf("%s", codigo1);
 
-    printf("Nome da Cidade (sem espacos): ");
+    printf("Nome da Cidade: ");
     scanf("%s", cidade1);
 
     printf("Populacao: ");
@@ -48,13 +48,13 @@ int main() {
 // Leitura de dados da "Carta 2"
 
     printf("Carta 2\n");
-    printf("Estado (sem espacos, ex: RioDeJaneiro): ");
+    printf("Estado: ");
     scanf("%s", estado2);
 
     printf("Codigo : ");
     scanf("%s", codigo2);
 
-    printf("Nome da Cidade (sem espacos): ");
+    printf("Nome da Cidade: ");
     scanf("%s", cidade2);
 
     printf("Populacao: ");
